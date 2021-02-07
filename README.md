@@ -1,2 +1,5 @@
-# COVID19-Forecasting-Using-ARIMA-AR-Model-RF...
-Python Notebook pour la compétition : https://www.kaggle.com/c/covid19-global-forecasting-week-2
+# Matière au choix
+
+* Membres : [KHALIS Oualid](https://github.com/walidkhalis) et [NASSIB Nouhaila](https://github.com/)
+
+### Description :
