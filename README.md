@@ -14,7 +14,6 @@ Pour la compétition : https://www.kaggle.com/c/covid19-global-forecasting-week-
 * [Random Forest Regressor](https://en.wikipedia.org/wiki/Random_forest)
 * [XGboost](https://fr.wikipedia.org/wiki/XGBoost)
 * [AdaBoost](https://fr.wikipedia.org/wiki/AdaBoost)
-* [AdaBoost](https://fr.wikipedia.org/wiki/AdaBoost)
 * [Decision Tree Regressor](https://en.wikipedia.org/wiki/Decision_tree_learning)
 * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
 * [Linear Regressor](https://en.wikipedia.org/wiki/Linear_regression)
